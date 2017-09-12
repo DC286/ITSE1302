@@ -1,0 +1,21 @@
+Commmit 1
+
+"Hello I'm Daniel, I'm like to read, PC gaming and I love history. All of this is new to me and very confusing. After taking this course I hope to have a better grasp on programming."
+
+
+Commit 2
+
+"When working on a project, version control is needed to track changes on files and helps maintain colloboration works."
+
+Commit 3
+
+Initialize Commit 1
+
+Input name
+Input interests
+Input hopes
+
+Initialize Commit 2
+
+Input reason for verson control
+
