@@ -17,5 +17,5 @@ Input hopes
 
 Initialize Commit 2
 
-Input reason for verson control
+Input importance for verson control
 
