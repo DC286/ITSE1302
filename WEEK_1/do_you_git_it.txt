@@ -5,7 +5,7 @@ Commmit 1
 
 Commit 2
 
-"When working on a project, version control is needed to track changes on files and helps maintain colloboration works."
+"When working on a project, version control is needed to track changes on files and helps maintain files edited when collaborating."
 
 Commit 3
 
