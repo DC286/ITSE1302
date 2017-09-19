@@ -1,0 +1,28 @@
+// Commit 1
+println("Hello World");
+// Commit 2
+String Firstname = "Daniel";
+String Lastname = "Castro";
+println("My name is " + Firstname + Lastname);
+//Commit 3
+int v = 1337;
+num = 1337 / 3;
+//Commit 4
+assert 1337 + 10 == 1347;
+assert 1337 - 10 == 1327;
+assert 1337 / 3 == 445.6666666667;
+assert 1337 * 5 == 6685;
+//Commit 5
+println("1347, 1327, 445.6666666667, 6685");
+//Commit 6
+//1. Describing what a constant is.
+println(' A constant is both a numeric and a string.');
+//2. Describing what a variable is.
+println("A variable is a named memory location of a specific data type with constants that can vary of time.");
+//3. Differences between variables and constants.
+println('''The difference between variables & constants can vary.
+        Variables can change their value at any time but constants can never change their value.
+        A constant's value stays locked for the duration of a program.''');
+//4. Describing what a data type is.
+println("Its the characteristic of a variable that describes the kind of values a variable can hold and the types of operations that can be performed with it.");
+ 
