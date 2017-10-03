@@ -1,0 +1,42 @@
+// Calculating Averages
+
+
+List<String> StudentList = [
+'Jonah Hill',
+'Eric Stone',
+'Hannah Barbara',
+'Savanna Lenn',
+'Hunter Smith',
+]
+
+
+
+
+def students = {
+    "Jonah Hill"[77,66,88,22,55,55,88,77,88,99],
+    "Eric Stone":[73,54,66,79,83,56,93,63,98,55],
+    "Hannah Barbara":[77,99,76,67,88,98,87,65,78],
+    "Savanna Lenn":[87,65,89,98,89,67,88,98,99,54],
+    "Hunter Smith":[66,54,56,66,76,78,87,91,76,70]
+}
+
+
+String getLetterGrade(Bigdecimal grade)(
+       if (grade >= 90) {
+         return 'A'
+     } else if (grade <= 89.99 && grade >= 80){ 
+        return 'B'
+     } else if (grade <= 79.99 && grade >= 70) {
+        return 'C'
+     } else if (grade <= 69.99 && grade >= 60) {
+        return 'D'
+     } else if (grade <= 59.99 && grade >= 50) {
+        return 'F'
+     }
+     
+ }
+ 
+ students.each(k,v ->
+        Bigdecimal = v.sum() / v.size()
+        println "$k: $average - ${getLettGradeIfStatement(average)}"
+        } 
